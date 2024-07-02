@@ -1,6 +1,9 @@
 
-Hello 👋 , My name is mootez, I am a fullstack developer 👨‍💻,Currently working with & learning MERN Stack.
+Hello 👋 , My name is mootez, I am a fullstack developer 👨‍💻.
+I've always loved computers and that's why I did my programming.
+I enjoy solving problems and writing algorithms.
 
+I am also very interested in web development especially the incredible and constantly expanding world of JavaScript .
 
 
 <h1>Technologies 🛠</h1

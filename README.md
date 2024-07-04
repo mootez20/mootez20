@@ -31,10 +31,7 @@ I am also very interested in web development especially the incredible and const
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
 
-
-
 <!-- -->
-<!-- -->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mootez20&theme=dark)](https://git.io/streak-stats)
 
 
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=medAzizRezgui&theme=dark)](https://git.io/streak-stats) -->

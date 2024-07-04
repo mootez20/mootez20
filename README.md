@@ -1,5 +1,7 @@
-
-Hello 👋 , My name is mootez, I am a fullstack developer 👨‍💻.
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mootez Nabli;" />
+</h1>
+I am a fullstack developer 👨‍💻.
 I've always loved computers and that's why I did my programming.
 I enjoy solving problems and writing algorithms.
 

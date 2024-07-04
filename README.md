@@ -38,5 +38,12 @@ I am also very interested in web development especially the incredible and const
 
 <!-- -->
 [![GitHub Streak](https://streak-stats.demolab.com/?user=mootez20&theme=dark)](https://git.io/streak-stats)
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://github.com/mootez20/mootez20/blob/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
 

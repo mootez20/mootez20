@@ -36,14 +36,6 @@ I am also very interested in web development especially the incredible and const
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
 
-<!-- -->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mootez20&theme=dark)](https://git.io/streak-stats)
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://github.com/mootez20/mootez20/blob/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
+
 
 
